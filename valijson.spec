@@ -54,7 +54,6 @@ użyciu jednej z kilku obsługiwanych bibliotek parserów:
 Summary:	Header-only JSON Schema validation library for C++ 11
 Summary(pl.UTF-8):	Biblioteka z samych nagłówków do sprawdzania poprawności JSON Schema dla C++ 11
 Group:		Development/Libraries
-Requires:	%{name} = %{version}-%{release}
 Requires:	libstdc++-devel >= 6:4.7
 
 %description devel
