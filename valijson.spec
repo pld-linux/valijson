@@ -1,13 +1,13 @@
 Summary:	Header-only JSON Schema validation library for C++ 11
 Summary(pl.UTF-8):	Biblioteka z samych nagłówków do sprawdzania poprawności względem JSON Schema dla C++ 11
 Name:		valijson
-Version:	1.0.1
+Version:	1.0.2
 Release:	1
 License:	BSD
 Group:		Development/Libraries
 #Source0Download: https://github.com/tristanpenman/valijson/releases
 Source0:	https://github.com/tristanpenman/valijson/archive/v%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	33fc065b2d408e75fd5dba36870aa524
+# Source0-md5:	b9e698e90c372dc17d7b8a1cd77d4de8
 URL:		https://github.com/tristanpenman/valijson
 BuildRequires:	cmake >= 3.1.2
 BuildRequires:	libstdc++-devel >= 6:4.7
